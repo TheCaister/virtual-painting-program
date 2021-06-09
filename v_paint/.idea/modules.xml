@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/virtual-painting-program.iml" filepath="$PROJECT_DIR$/.idea/virtual-painting-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/v_paint.iml" filepath="$PROJECT_DIR$/.idea/v_paint.iml" />
     </modules>
   </component>
 </project>
